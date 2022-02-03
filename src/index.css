@@ -140,6 +140,27 @@ ul {
   clear: both;
 }
 
+.hog-card {
+  padding: 10px;
+  border: 1px solid #F5A9BC;
+}
+.hog-image {
+  width: 200px;
+  height: 200px;
+}
+
+.filters{
+  margin-bottom: 30px;
+}
+
+.sort-list {
+  width: 40%;
+  padding: 0 10%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  justify-content: space-between;
+}
 
 @keyframes App-logo-spin {
   from {
